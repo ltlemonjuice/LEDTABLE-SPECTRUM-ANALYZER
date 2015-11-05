@@ -5,7 +5,7 @@ Spectrum Analyzer for the LEDTABLE Project
 LEDTABLE Project: https://github.com/ltlemonjuice/LEDTABLE  
 
 
-**Status:** Not yet Started  
+**Status:** In Progress...
 
 
 ####TODO, CHANGES, IDEAS:
