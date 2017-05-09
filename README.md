@@ -10,7 +10,7 @@ LEDTABLE Project: https://github.com/ltlemonjuice/LEDTABLE
 Output of the MicTest.py have been converted into VolumeLevels.py which essentially just outputs its output as traversing level bars which looks kinda cool.
 
 
-####TODO, CHANGES, IDEAS:
+#### TODO, CHANGES, IDEAS:
 - **TODO:**
   - Understand FFT and Numpy
   - Real Spectrum Analyzer
